@@ -1,0 +1,12 @@
+Warning : 1
+statment: $i3 = virtualinvoke $r24.<npda.Str_SSA2: int length()>()
+line    : 35
+method  : void main(java.lang.String[])
+class   : npda.SSA2
+
+Unsure  : 1
+statment: $i0 = virtualinvoke $r9.<npda.Str_SSA2: int length()>()
+line    : 31
+method  : void main(java.lang.String[])
+class   : npda.SSA2
+
